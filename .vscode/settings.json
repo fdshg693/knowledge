@@ -1,0 +1,6 @@
+{
+    "python.analysis.ignore": [
+        "${workspaceFolder:knowledge}/check_knowledge/**/*.*",
+        "${workspaceFolder:knowledge}/python_learn/**/*.*"
+    ]
+}

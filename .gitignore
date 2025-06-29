@@ -1,0 +1,21 @@
+# Ignore all files and directories by default
+*
+
+# But include these specific files and folders
+!.gitignore
+# .github/
+!.github/
+!.github/**
+# utils/
+!utils/
+!utils/**
+# samples/
+!samples/
+!samples/**
+# README.md
+!README.md
+# .vscode/
+!.vscode/
+!.vscode/**
+# NEXT.md
+!NEXT.md
