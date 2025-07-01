@@ -2,7 +2,7 @@
 mode: agent
 ---
 
-# Python Prompts Meta Summary Generator
+# Prompts Meta Summary Generator
 
 ## Objective
 Search for all {concepts}-related prompt files in the `.github/prompts/` directory (all files matching the pattern `.github/prompts/{concepts}_*.md`)
