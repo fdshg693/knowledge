@@ -17,7 +17,10 @@
 # .vscode/
 !.vscode/
 !.vscode/**
-# NEXT.md
+# メモようのファイル
 !NEXT.md
+!memo.md
+# 便利シェルスクリプト
+!cleanup_git_copy.sh
 
 .DS_Store
